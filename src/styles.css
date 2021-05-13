@@ -19,7 +19,7 @@ html {
 }
 
 .purple {
-  color: #837c9a;
+  color: #26a198;
 }
 
 .block {
@@ -28,7 +28,7 @@ html {
 
 .block h1 {
   margin-left: -5px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .last.block {
@@ -109,7 +109,7 @@ html {
 /* Main tags */
 
 body {
-  background: black;
+  background: #fafafa;
   margin: 0;
 }
 
@@ -118,8 +118,8 @@ h2,
 h3,
 h4 {
   font-family: 'Lato', Helvetica, sans-serif;
-  font-weight: 300;
-  color: #48DA9B;
+  font-weight: 400;
+  color: #005488;
 }
 
 h1 {
@@ -146,7 +146,7 @@ blockquote {
   font-style: italic;
   margin: 25px 0;
   padding-left: 20px;
-  border-left: 2px solid #48DA9B;
+  border-left: 2px solid #005488;
 }
 
 blockquote,
@@ -154,9 +154,9 @@ p,
 a,
 li {
   font-family: 'Lato', Helvetica, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 15px;
-  color: #e4e3e8;
+  color: #333;
 }
 
 a:focus {
@@ -232,7 +232,7 @@ li:before {
 
 .logotype_name {
   text-transform: uppercase;
-  font-size: 32px;
+  font-size: 26px;
   margin: 43px 0 0;
   font-weight: bold;
 }
@@ -240,7 +240,7 @@ li:before {
 .logotype_occupation {
   text-transform: uppercase;
   margin-top: 5px;
-  color: #5ce2af;
+  color: #005488;
   font-size: 15px;
   letter-spacing: 2px;
   padding-left: 3px;
@@ -351,7 +351,7 @@ li:before {
 .special_button {
   margin-top: 25px;
   display: block;
-  background: #48DA9B;
+  background: #005488;
   width: 230px;
   height: 50px;
   position: relative;
@@ -384,7 +384,7 @@ li:before {
 
 .content {
   text-align: center;
-  color: #04080b;
+  color: #fff;
   width: 100%;
   height: 40px;
   position: absolute;
@@ -400,7 +400,7 @@ li:before {
 
 .read_blog_button:hover,
 .special_button:hover {
-  background: #29C782;
+  background: #005488;
 }
 
 .get_social_content {
